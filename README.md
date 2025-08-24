@@ -1,2 +1,13 @@
-# maria-padilha_lp
-O Manual Proibido é uma Landing Page ritualística desenvolvida em código puro (HTML, CSS e JS), com base no infoproduto Manual Proibido de Maria Padilha (ritual.xyz). Ele une UI/UX de alto impacto e copywriting persuasivo para ativação arquetípica, servindo como case de portfólio front-end e também como ativo real de conversão.
+# Maria Padilha LP
+
+Landing Page estática em HTML, CSS e JS puro.
+
+## Estrutura
+- docs/ → documentação
+- public/ → arquivos estáticos
+- src/ → código fonte (HTML, CSS, JS)
+
+## Como usar
+1. Abra `src/index.html` no navegador
+2. Edite os arquivos em `src/css/` e `src/js/`
+3. Suba para servidor ou use Live Server (VSCode)
