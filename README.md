@@ -1,4 +1,15 @@
-# Maria Padilha LP
+<div align="center">
+
+![Landing page Maria Padilha](assets/cover.svg)
+
+# Landing page Maria Padilha
+
+Landing page com foco em apresentação visual e organização de conteúdo
+
+**Projeto web**
+
+</div>
+
 
 Landing Page estática em HTML, CSS e JS puro.
 
